@@ -1,6 +1,7 @@
 # Ignore specific data directories
 raw_data/
 catboost_info/
+AutogluonModels/
 
 # Ignore common large file types
 *.zip
